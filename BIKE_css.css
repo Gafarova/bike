@@ -1,0 +1,47 @@
+*{
+	margin:0px; padding:0px; border:none;
+}
+
+.primari{
+	position:relative;
+}
+
+.row{
+	 position:absolute; top:15px; left:500px; width:720px; height:120px; 
+
+}
+.menu-bar{
+	list-style:none;
+}
+
+.logo{
+	background: url("imag/main-logo.png"); 
+	top: 63px; 
+	left:268px;
+	width: 94px;
+    height: 85px;
+    margin-right: 0px;
+    margin-left: 254px;
+    margin-top: 21px;
+}
+#li{
+	float: left
+}
+.dot{
+	padding-right: 25px;  padding-top: 51px; padding-left: 10px;
+}
+.abaut-item{
+	padding-right: 25px; padding-top: 51px;
+}
+.work-item{
+	padding-right: 25px; padding-top: 51px;  
+}
+.shop-item{
+	padding-right: 25px; padding-top: 51px; padding-left: 207px
+}
+.contact-item{
+	padding-right: 25px; padding-top: 51px;
+}
+a{
+	text-decoration:none;
+}
