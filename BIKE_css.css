@@ -3,7 +3,7 @@
 }
 
 .primari{
-	position:relative;
+	position:relative;height: 800px;
 }
 
 .row{
@@ -44,4 +44,23 @@
 }
 a{
 	text-decoration:none;
+}
+.container{
+	background-color: #fbfbfb;position:relative; height:500px;
+}
+.chain {
+	position: absolute;
+        left: 567px;
+    top: 140px;
+    height: 89px;
+    width: 500px;
+}
+
+.chain h1{
+	position: absolute;
+    top: 59px;
+}
+.chain img{
+	position: absolute;
+	left:200px;
 }
